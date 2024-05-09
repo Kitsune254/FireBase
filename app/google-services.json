@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293418013287",
+    "project_id": "kitfirebase-e9092",
+    "storage_bucket": "kitfirebase-e9092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293418013287:android:eb8a8c88e607213538fac2",
+        "android_client_info": {
+          "package_name": "com.kit.kitfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdjloNuqY-npz8BgkU_Ms015O9eURcC2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
